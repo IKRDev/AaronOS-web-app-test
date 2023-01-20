@@ -5,9 +5,9 @@
             "version": "1.0",
             "abbreviation": "App",
             "appType": "webApp",
-            "homeURL": "https://yourwebsite.com/myWebApp/index.html",
+            "homeURL": "https://ikrdev.github.io/AaronOS-web-app-test/app/index.html",
             "icon": {
-                "foreground": "https://yourwebsite.com/myWebApp/repoIcon.png",
+                "foreground": "https://ikrdev.github.io/AaronOS-web-app-test/app/assets/icon.png",
                 "backgroundColor": "#303947",
                 "backgroundBorder": {
                     "thickness": 2,
