@@ -1,9 +1,28 @@
+
         {
             "repoName": "My Testing Repository",
-            "repoID": "IkerTestRepoAARONOSwebApp",
+            "repoID": "aaaaaaaa",
             "repoAliases": ["alternate", "search", "terms"],
             "repoVersion": "1.0",
             "packages": {
+
+                "unique_id_for_my_app": {
+                    "packageName": "My Web App",
+                    "packageID": "unique_id_for_my_app",
+                    "packageAliases": ["test", "first", "mine"],
+                    "version": "1.0",
+                    "packageType": "webApp",
+                    "installURL": "https://yourwebsite.com/myWebApp/package.json",
+                    "icon": {
+                        "foreground": "https://yourwebsite.com/myWebApp/repoIcon.png",
+                        "backgroundColor": "#303947",
+                        "backgroundBorder": {
+                            "thickness": 2,
+                            "color": "#252F3A"
+                        }
+                    },
+                    "description": "This is my first app ever! :D"
+                }
 
             }
         }
