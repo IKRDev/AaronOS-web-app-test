@@ -1,0 +1,9 @@
+        {
+            "repoName": "My Testing Repository",
+            "repoID": "IkerTestRepoAARONOSwebApp",
+            "repoAliases": ["alternate", "search", "terms"],
+            "repoVersion": "1.0",
+            "packages": {
+
+            }
+        }
