@@ -1,0 +1,19 @@
+
+        {
+            "name": "My Web App",
+            "id": "ikerwebappAaronOSlol",
+            "version": "1.0",
+            "abbreviation": "App",
+            "appType": "webApp",
+            "homeURL": "https://yourwebsite.com/myWebApp/index.html",
+            "icon": {
+                "foreground": "https://yourwebsite.com/myWebApp/repoIcon.png",
+                "backgroundColor": "#303947",
+                "backgroundBorder": {
+                    "thickness": 2,
+                    "color": "#252F3A"
+                }
+            },
+            "windowSize": [500, 400],
+            "manualOpen": 1
+        }
